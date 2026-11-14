@@ -1,0 +1,5 @@
+term,metric,value
+all,brier_score,0.0827523709631466
+all,cross_entropy,0.4220025945469265
+all,ece,0.0892622848251956
+all,expected_correctness,0.8161842157593124
